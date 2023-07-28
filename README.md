@@ -5,10 +5,15 @@ uses React and Vite:
  
 
 npm create vite@latest my-blog-app 
+
 cd my-blog-app 
+
 npm install
+
 npm install axios
+
 ... make code changes
+
 npm run dev 
 
 ============================================================================================
