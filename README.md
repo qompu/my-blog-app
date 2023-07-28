@@ -16,6 +16,10 @@ npm install axios
 
 npm run dev 
 
+====
+To do: add pagination: (+ this.state.page) returns page number on get request
+"http://headless-wordpress-website.local/wp-json/wp/v2/posts?page=" + this.state.page
+
 ======================================================
 # React + Vite
 
